@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Madurai:wght@700&display=swap');
+
+body {
+    background-color: rgb(0, 0, 0);
+    font-family: 'Hind Madurai', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.webgl {
+    position : absolute;
+    top : 0;
+    left : 0;
+    outline : none;
+}
+
+.container{
+    height:  65vh;
+    /* width: 100vh; */
+    place-items: center;
+    display: grid;
+    color:rgb(255, 255, 255);
+}
+
+h1 {
+    font-size: 5rem;
+}
+
